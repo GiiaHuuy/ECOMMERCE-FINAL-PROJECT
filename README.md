@@ -56,8 +56,7 @@
  -customer_state: bang nơi khách hàng sống
     
     
-    
-    
+       
     
     
       
